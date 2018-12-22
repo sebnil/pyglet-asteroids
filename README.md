@@ -5,8 +5,7 @@ Bullets have recoil and will slightly accelerate the ship rearwards when shootin
 Game graphics from a professional artist. (nalishac.com)
 When I started this list I thought there would be more features but I think this is it.
 
-![Screenshot]
-(screenshot_1.png)
+![Screenshot](screenshot_1.png)
 
 Using a lot of code and inspiration from:
   - http://steveasleep.com/pyglettutorial.html
